@@ -49,6 +49,11 @@
             <name>Kingsley Hendrickse</name>
             <email>kingsley.hendrickse@gmail.com</email>
         </developer>
+        <developer>
+            <id>ht</id>
+            <name>Hotel Tonight</name>
+            <email>help@hoteltonight.com</email>
+        </developer>
     </developers>
 
     <!-- get every artifact through repo.jenkins-ci.org, which proxies all
@@ -99,7 +104,7 @@
         <dependency>
             <groupId>net.masterthought</groupId>
             <artifactId>cucumber-reporting</artifactId>
-            <version>3.5.1</version>
+            <version>3.5.2-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
